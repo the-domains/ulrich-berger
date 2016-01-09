@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Sommer 2009 Frankreich und Spanien
-datePublished: '2016-01-09T21:23:43.784Z'
-dateModified: '2016-01-09T21:23:38.957Z'
+description: ''
+datePublished: '2016-01-09T21:26:03.709Z'
+dateModified: '2016-01-09T21:26:00.744Z'
 title: Tarn-Schlucht – Albi – Ordesa-Tal – Baskenland – Bilbao
 author: []
 sourcePath: _posts/2016-01-09-tarn-schlucht-albi-ordesa-tal-baskenland-bilbao.md
@@ -25,6 +25,8 @@ _type: Article
 ### 
 
 # Tarn-Schlucht -- Albi -- Ordesa-Tal -- Baskenland -- Bilbao
+
+## Sommer 2009 Frankreich und Spanien
 
 Unsere Planung für den Sommerurlaub 2009 sah so aus: Ins Warme, irgendwo
 in Frankreich, wir hatten einfach keine Zeit. Einen Tag vor der 
