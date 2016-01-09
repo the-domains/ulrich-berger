@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-09T21:22:06.453Z'
-dateModified: '2016-01-09T21:21:58.597Z'
+description: Sommer 2009 Frankreich und Spanien
+datePublished: '2016-01-09T21:23:43.784Z'
+dateModified: '2016-01-09T21:23:38.957Z'
 title: Tarn-Schlucht – Albi – Ordesa-Tal – Baskenland – Bilbao
 author: []
 sourcePath: _posts/2016-01-09-tarn-schlucht-albi-ordesa-tal-baskenland-bilbao.md
