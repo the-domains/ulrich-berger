@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ulrich Berger]]></title>
+        <description><![CDATA[Ulrich Berger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 21:14:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tarn-Schlucht – Albi – Ordesa-Tal – Baskenland – Bilbao]]></title>
+            <description><![CDATA[<article><h1>Tarn-Schlucht – Albi – Ordesa-Tal – Baskenland – Bilbao</h1><h2>Sommer 2009 Frankreich und Spanien: </h2><p>(zwei Teile)</p></article>]]></description>
+            <link>undefinedtarn-schlucht-albi-ordesa-tal-baskenland-bilbao/index.html</link>
+            <guid isPermaLink="false">bbc62412-d4df-40b9-8a99-08ddd555c96b</guid>
+            <pubDate>Sat, 09 Jan 2016 21:14:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
