@@ -1,0 +1,28 @@
+name: Ulrich Berger
+favicon: null
+layout_spectrum: 0.7282620901241899
+typography_spectrum: 0.5258050651755184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.1941838562488556
+  lightness: 0.45896266191266477
+  saturation: 0.5179831297136843
+  rhythmicContrast: 0.08247224916703999
+purpose: []
