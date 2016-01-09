@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-09T21:26:03.709Z'
-dateModified: '2016-01-09T21:26:00.744Z'
+datePublished: '2016-01-09T21:27:32.467Z'
+dateModified: '2016-01-09T21:27:28.348Z'
 title: Tarn-Schlucht – Albi – Ordesa-Tal – Baskenland – Bilbao
 author: []
 sourcePath: _posts/2016-01-09-tarn-schlucht-albi-ordesa-tal-baskenland-bilbao.md
@@ -31,7 +31,8 @@ _type: Article
 Unsere Planung für den Sommerurlaub 2009 sah so aus: Ins Warme, irgendwo
 in Frankreich, wir hatten einfach keine Zeit. Einen Tag vor der 
 Abfahrt  entschieden wir: Es geht in den Südwesten Frankreichs, Details 
-klären wir während der Fahrt.  
+klären wir während der Fahrt.
+
 Gestartet sind wir am 18\. Juli 2009 in Hamburg gegen 16.00 Uhr, 
 immerhin nicht 20.00 Uhr, unser Rekord. Wir schafften es noch bis zu 
 einem Etap-Hotel in Valenciennes kurz hinter der belgisch-französischen 
